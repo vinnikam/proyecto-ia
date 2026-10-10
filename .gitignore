@@ -1,0 +1,16 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Backend
+backend/target/
+backend/.quarkus/
+
+# Frontend
+frontend-ia/node_modules/
+frontend-ia/dist/
+frontend-ia/.angular/
+
+# Secretos
+.env
+*.local
